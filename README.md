@@ -41,11 +41,11 @@ text_model = YOLO(hf_hub_download(repo_id, "robo_best.pt"))
 * ultralytics
 * huggingface_hub
 * opencv-python
-
+* reportlab
 Install dependencies:
 
 ```bash
-pip install ultralytics huggingface_hub opencv-python
+pip install ultralytics huggingface_hub opencv-python reportlab
 ```
 
 ---
