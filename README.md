@@ -47,6 +47,9 @@ Install dependencies:
 ```bash
 pip install ultralytics huggingface_hub opencv-python reportlab
 ```
+``` else
+pip install -r requirements.txt
+```
 
 ---
 
