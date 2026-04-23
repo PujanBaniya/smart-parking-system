@@ -4,3 +4,6 @@ numpy
 torch
 easyocr
 pandas
+reportlab
+huggingface_hub
+roboflow
